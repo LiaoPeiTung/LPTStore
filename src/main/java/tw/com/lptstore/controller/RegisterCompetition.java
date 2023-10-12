@@ -12,7 +12,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import tw.com.lptstore.model.bean.Register;
-import tw.com.lptstore.model.dao.CompetitionDAO;
 import tw.com.lptstore.model.dao.RegisterDAO;
 import tw.com.lptstore.util.ConnectionFactory;
 
